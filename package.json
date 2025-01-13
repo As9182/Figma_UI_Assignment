@@ -1,9 +1,10 @@
 {
+  "homepage": "https://As9182.github.io/Figma_UI_Assignment",
   "name": "personal-website",
   "version": "2.0.0",
   "description": "Personal website with react and webpack",
   "main": "index.js",
-  "homepage": "https://As9182.github.io/Figma_UI_Assignment",
+ 
   "scripts": {
     "start": "webpack serve --env NODE_ENV=development",
     "build:storybook": "storybook build -o ./storybook",
