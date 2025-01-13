@@ -4,7 +4,6 @@
   "version": "2.0.0",
   "description": "Personal website with react and webpack",
   "main": "index.js",
- 
   "scripts": {
     "start": "webpack serve --env NODE_ENV=development",
     "build:storybook": "storybook build -o ./storybook",
